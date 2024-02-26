@@ -46,7 +46,7 @@ joblib==1.2.0
 jsonlines==3.1.0
 jsonschema==4.17.3
 kiwisolver==1.4.4
-langchain==0.0.329
+langchain==0.1.0
 Levenshtein==0.21.0
 llama-cpp-python==0.1.50
 lxml==4.9.2
